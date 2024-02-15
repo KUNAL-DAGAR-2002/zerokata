@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    width: 100;
+}
+.navbar{
+    background-color: #222e50 !important;
+    text-align: center;
+    padding-left: 24rem;
+}
+.navbar-brand{
+    color: #ffffff !important;
+    font-size:5rem;
+    font-weight: bolder;
+}
+
+.game{
+    margin-top: 5rem;
+
+}
+.boxes{
+    margin-bottom: 0.3rem;
+    margin-right: 0.2rem;
+    height: 6.5rem;
+    width: 6.5rem;
+    border: 2px solid;
+    border-radius: 0.8rem;
+    background-color: #ffff;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.btn{
+    width: 10rem;
+    margin-top: 1rem;
+}
+
+
+.win{
+    background-color: green !important;
+    color: white !important;
+}
+
+.boxes:disabled{
+    background-color: #ffff;
+    color: black;
+}
+img{
+    height: 10rem;
+}
+
+.winnerClass{
+    background-color: #2fff50;
+    color:#ffffff;
+}
+
+.fail{
+    background-color:crimson;
+    color: #ffffff;
+}
+
+.sider{
+    margin-top: 4rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+
